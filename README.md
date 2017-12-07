@@ -1,7 +1,7 @@
 The game jam theme was *DREAM*. This readme file is the High Concept Document to _Where Am I_ game.
 
 ## Play now!
-The game was published on itch.io, and you can play the last version here in this link [Where am I](https://k30v1n.itch.io/where-am-i)
+The game was published on itch.io, and you can play the last version here in this link [Where am I](https://k30v1n.itch.io/where-am-i). Bugs, problems or suggestions that you may have please feel free to open some Issue here.
 
 ## Team
 - Kelvin Ferreira ([@k30v1n](http://twitter.com/k30v1n)) as Programmer, Game designer and 2D Artist;
