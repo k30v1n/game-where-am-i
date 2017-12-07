@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e6760de99f14c6f4ebdb6a7645bff97b
+timeCreated: 1501285082
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Decoy
+  fontNames:
+  - Decoy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
